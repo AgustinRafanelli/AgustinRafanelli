@@ -10,7 +10,7 @@
 
 -⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif"  alt="" height="450" width="450" /></p    
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif"  alt="" height="450" width="450" /></p>    
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
