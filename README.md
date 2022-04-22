@@ -3,11 +3,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=AgustinRafanelli&label=Profile%20views&color=0e75b6&style=flat"
     alt="AgustinRafanelli" />
+    
 <p>
     🌱 I’m currently learning Web Development and other programming languages
-
     📫 How to reach: me agustinrafa1995@gmail.com
-
     ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 </p>
     
