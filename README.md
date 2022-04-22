@@ -3,46 +3,36 @@
 
 <img src="https://komarev.com/ghpvc/?username=AgustinRafanelli&label=Profile%20views&color=0e75b6&style=flat"
     alt="AgustinRafanelli" />
+<p>
+    - 🌱 I’m currently learning Web Development and other programming languages
+
+    - 📫 How to reach me **agustinrafa1995@gmail.com**
+
+    - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+</p>
     
 <div display="flex" align-content"justify" direction="row">
-  <p>
-  - 🌱 I’m currently learning Web Development and other programming languages
-
-  - 📫 How to reach me **agustinrafa1995@gmail.com**
-
-  - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
-  </p>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=AgustinRafanelli&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    <div>
+        <h3 align="left">Connect with me:</h3>
+        <p align="left">
+          <a href="https://www.linkedin.com/in/agustinrafanelli/" target="blank"><img align="center"
+              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+              alt="agustin rafanelli" height="30" width="40" /></a>
+          <a href="https://wa.me/541136169061" target="blank"><img align="center"
+              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
+              alt="agustin rafanelli" height="30" width="40" /></a>
+          <a href="https://discordapp.com/users/647214114602745878" target="blank"><img align="center"
+              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
+              alt="_._.adam._" height="30" width="40" /></a>
+        </p>
+    </div>
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=AgustinRafanelli&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
       alt="AgustinRafanelli" 
       bg_color=#808080/>
 </div>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/agustinrafanelli/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="agustin rafanelli" height="30" width="40" /></a>
-  <a href="https://wa.me/541136169061" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
-      alt="agustin rafanelli" height="30" width="40" /></a>
-  <a href="https://discordapp.com/users/647214114602745878" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
-  
-  
- <!--
-  <a href="https://instagram.com/_._.adam._" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/adampithewan" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="adampithewan" height="30" width="40" /></a>
- <a href="https://twitter.com/agusrafa95" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a>
--->
-</p>
+
 
 <br>
 
@@ -140,10 +130,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AgustinRafanelli&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
       alt="AgustinRafanelli" />
 </p>
-
-
-
-      
-
-
-[AgustinRafanelli](https://github.com/AgustinRafanelli)
