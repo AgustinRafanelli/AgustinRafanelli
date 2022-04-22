@@ -11,7 +11,7 @@
     - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 </p>
     
-<div display="flex" align-content"justify" direction="row">
+<p>
     <div>
         <h3 align="left">Connect with me:</h3>
         <p align="left">
@@ -29,7 +29,7 @@
     <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=AgustinRafanelli&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
       alt="AgustinRafanelli" 
       bg_color=#808080/>
-</div>
+</p>
 
 
 
@@ -124,7 +124,7 @@
 
 <h3>Some stats :   </h3>
 
-<p>  
+<p align="center" >  
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgustinRafanelli&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D"
       alt="AgustinRafanelli" />
   <img src="https://github-readme-stats.vercel.app/api?username=AgustinRafanelli&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
