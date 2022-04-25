@@ -4,11 +4,9 @@
 <img src="https://komarev.com/ghpvc/?username=AgustinRafanelli&label=Profile%20views&color=0e75b6&style=flat"
     alt="AgustinRafanelli" />
     
--🌱 I’m currently learning Web Development and other programming languages
+-🌱 I’m currently looking for work as a Fullstack Developer
 
 -📫 How to reach: me agustinrafa1995@gmail.com
-
--⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
 <p><img align="right" src="https://github.com/AgustinRafanelli/AgustinRafanelli/blob/main/animation_500_kxa883sd.gif"  alt="" height="450" width="450" /></p>    
 
